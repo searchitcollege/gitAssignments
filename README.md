@@ -1,2 +1,2 @@
 # gitAssignments
-Alpha G
+Alpha GROUP
